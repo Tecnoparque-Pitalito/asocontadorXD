@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F13F2C58-3B2C-4E81-85F9-8AAEC7C6A08D}|Facturacion-ASOCONTADOR.vbproj|d:\\programa\\asocontador\\facturacion-asocontador\\clases\\facturasgeneratorcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F13F2C58-3B2C-4E81-85F9-8AAEC7C6A08D}|Facturacion-ASOCONTADOR.vbproj|solutionrelative:clases\\facturasgeneratorcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13F2C58-3B2C-4E81-85F9-8AAEC7C6A08D}|Facturacion-ASOCONTADOR.vbproj|d:\\programa\\asocontador\\facturacion-asocontador\\facturas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F13F2C58-3B2C-4E81-85F9-8AAEC7C6A08D}|Facturacion-ASOCONTADOR.vbproj|solutionrelative:facturas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13F2C58-3B2C-4E81-85F9-8AAEC7C6A08D}|Facturacion-ASOCONTADOR.vbproj|d:\\programa\\asocontador\\facturacion-asocontador\\facturas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F13F2C58-3B2C-4E81-85F9-8AAEC7C6A08D}|Facturacion-ASOCONTADOR.vbproj|solutionrelative:facturas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13F2C58-3B2C-4E81-85F9-8AAEC7C6A08D}|Facturacion-ASOCONTADOR.vbproj|d:\\programa\\asocontador\\facturacion-asocontador\\asignarcostoasociado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F13F2C58-3B2C-4E81-85F9-8AAEC7C6A08D}|Facturacion-ASOCONTADOR.vbproj|solutionrelative:asignarcostoasociado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13F2C58-3B2C-4E81-85F9-8AAEC7C6A08D}|Facturacion-ASOCONTADOR.vbproj|d:\\programa\\asocontador\\facturacion-asocontador\\asignarcostoasociado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F13F2C58-3B2C-4E81-85F9-8AAEC7C6A08D}|Facturacion-ASOCONTADOR.vbproj|solutionrelative:asignarcostoasociado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturasGeneratorController.vb",
+              "DocumentMoniker": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\Clases\\FacturasGeneratorController.vb",
+              "RelativeDocumentMoniker": "Clases\\FacturasGeneratorController.vb",
+              "ToolTip": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\Clases\\FacturasGeneratorController.vb*",
+              "RelativeToolTip": "Clases\\FacturasGeneratorController.vb*",
+              "ViewState": "AgIAACEFAAAAAAAAAAAIwCMFAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-12T19:13:30.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Facturas.vb",
+              "DocumentMoniker": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\Facturas.vb",
+              "RelativeDocumentMoniker": "Facturas.vb",
+              "ToolTip": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\Facturas.vb",
+              "RelativeToolTip": "Facturas.vb",
+              "ViewState": "AgIAAHQAAAAAAAAAAAApwJEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-12T19:13:22.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Facturas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\Facturas.vb",
+              "RelativeDocumentMoniker": "Facturas.vb",
+              "ToolTip": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\Facturas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Facturas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-12T19:13:18.454Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsignarCostoAsociado.vb",
+              "DocumentMoniker": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\AsignarCostoAsociado.vb",
+              "RelativeDocumentMoniker": "AsignarCostoAsociado.vb",
+              "ToolTip": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\AsignarCostoAsociado.vb",
+              "RelativeToolTip": "AsignarCostoAsociado.vb",
+              "ViewState": "AgIAAEoAAAAAAAAAAAApwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-12T15:15:46.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsignarCostoAsociado.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\AsignarCostoAsociado.vb",
+              "RelativeDocumentMoniker": "AsignarCostoAsociado.vb",
+              "ToolTip": "D:\\Programa\\Asocontador\\Facturacion-ASOCONTADOR\\AsignarCostoAsociado.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AsignarCostoAsociado.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-12T15:14:57.012Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
